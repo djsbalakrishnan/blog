@@ -1,0 +1,54 @@
+baseurl = "https://dhirajbalakrishnan.dev"
+languageCode = "en-us"
+Title = "Dhiraj Balakrishnan"
+copyright = "Theme - Potato Dark"
+theme = "potato-dark"
+
+[params]
+  paginate = 10
+  twitter = "djsbalakrishnan"
+  linkedin = "djsbalakrishnan"
+  github = "djsbalakrishnan"
+  instagram = "djsbalakrishnan"
+
+
+[[menu.main]]
+    name = "Impossible-List"
+    url = "/impossible-list"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
