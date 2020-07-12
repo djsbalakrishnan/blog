@@ -1,7 +1,7 @@
 +++
 title = "Impossible List"
 date = "2020-06-06"
-tags = ["Goals", "Productivity"]
+tags = ["Goals", "Productivity", "Experiences"]
 draft= false
 +++
 
@@ -30,18 +30,20 @@ Here is mine.
 - Complete a Triathlon
 - Complete a 10KM marathon
 - Finish 25m swim in less than 15 seconds
-- Get a body score of 90 in MI Scale [(View Progress)](https://www.notion.so/djsbalakrishnan/Get-a-body-score-of-90-in-MI-Scale-c41204c140b34379bfdeff32e45b5a40)
+- ~~Get a body score of 90 in MI Scale~~ [(July 2020)](https://www.notion.so/djsbalakrishnan/Week-27-51feb56d4914489eacffe53e6d95d60f) 
+	- Get a body score of 90 in MI Scale consecutively for 3 months [(View Progress)](https://www.notion.so/djsbalakrishnan/Get-a-body-score-of-90-in-MI-Scale-c41204c140b34379bfdeff32e45b5a40)
 
 ### Professional Goals
 - ~~Develop personal portfolio~~ [(October 2019)](https://github.com/djsbalakrishnan/djsbalakrishnan.github.io/commit/042cf44a3b6baaea0928467f8f3c51e549a69634)
-	- Pubish your first blog
+	- ~~Pubish your first blog~~ [(June 2020)](https://dhirajbalakrishnan.dev/posts/perfection-is-overrated/)
+	- Get over 50 upvotes for your blog 
 - Conduct a workshop on Pycon
 - Start a YouTube channel on Programming
 - Start a company on waste management
 
 ### Habit Goals
 - ~~Do a morning workout for 100 days in a row~~ (June 2020)
-	- Do a morning workout for 200 days in a row
+	- Do a morning workout for 200 days in a row [(View Progress)](https://www.notion.so/djsbalakrishnan/Do-a-morning-workout-for-200-days-in-a-row-885b01e5e85b4e89b0d5d903d6cbf717)
 - Read 25 pages a day for 3 months [(View Progress)](https://www.notion.so/djsbalakrishnan/Read-25-pages-every-day-for-the-next-3-months-2438df42795841d5967b543f74bd27ab)
 - Complete 100 Days of ML [(View Progress)](https://www.notion.so/djsbalakrishnan/100-Days-of-ML-55c3fc19e6c74f929b307bc9c89ef508)
 - ~~Complete 30 Days to Minimalism~~ (January 2020)

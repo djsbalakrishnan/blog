@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Dhiraj Balakrishnan</title>
+    <link>https://dhirajbalakrishnan.dev/tags/experiences/</link>
+    <description>Recent content in Experiences on Dhiraj Balakrishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Theme - Potato Dark</copyright>
+    <lastBuildDate>Fri, 19 Jun 2020 18:50:30 +0530</lastBuildDate>
+    
+	<atom:link href="https://dhirajbalakrishnan.dev/tags/experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Leadership Lessons from my Personal Experience</title>
+      <link>https://dhirajbalakrishnan.dev/posts/5-leadership-lessons-from-my-personal-experience/</link>
+      <pubDate>Fri, 19 Jun 2020 18:50:30 +0530</pubDate>
+      
+      <guid>https://dhirajbalakrishnan.dev/posts/5-leadership-lessons-from-my-personal-experience/</guid>
+      <description>It is not the genius at the top giving directions that makes people great. It is great people that make the guy at the top look like a genius.
+ Before I start, I want to let you know that I am no expert in Leadership. I got an opportunity to lead a committee at Dell and I loved that experience. I am documenting the impact that it had on my life and the lessons that I have learnt from it.</description>
+    </item>
+    
+    <item>
+      <title>Impossible List</title>
+      <link>https://dhirajbalakrishnan.dev/impossible-list/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhirajbalakrishnan.dev/impossible-list/</guid>
+      <description>We all die. The goal isn&amp;rsquo;t to live forever, the goal is to create something that will.
+ For all of you who are wondering what an impossible list is, let me borrow a few sentences from Thomas Frank who was my inspiration for creating my own Impossible list.
+ The impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action.</description>
+    </item>
+    
+  </channel>
+</rss>
